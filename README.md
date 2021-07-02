@@ -6,6 +6,7 @@ Es un regulador clave del desarrollo de semillas de Arabidopsis Thaliana ( https
 ![genemania-network](https://user-images.githubusercontent.com/85301799/124205635-3cd64100-daa7-11eb-8c22-96f0975be214.jpg)
 
 Contexto genomico
+
 ![image](https://user-images.githubusercontent.com/85301799/124206681-6d1edf00-daa9-11eb-8bf7-d1dbd3ac0b65.png)
 
 
