@@ -7,6 +7,8 @@ Es un regulador clave del desarrollo de semillas de Arabidopsis Thaliana ( https
 
 Contexto genomico
 
+Se localiza en el cromosoma 3 (https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=822293)
+
 ![image](https://user-images.githubusercontent.com/85301799/124206681-6d1edf00-daa9-11eb-8bf7-d1dbd3ac0b65.png)
 
 
