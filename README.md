@@ -13,11 +13,13 @@ El factor de transcripción del dominio B3 FUSCA3 (FUS3) es un regulador maestro
 Contexto genomico
 
 Se localiza en el cromosoma 3 
+
 (https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=822293)
 
 ![image](https://user-images.githubusercontent.com/85301799/124206681-6d1edf00-daa9-11eb-8bf7-d1dbd3ac0b65.png)
 
 Secuencia del cromosoma 3 de Arabidopsis thaliana 
+
 (https://www.ncbi.nlm.nih.gov/nuccore/NC_003074.8?report=genbank&from=9853828&to=9856212&strand=true)
 
 ![Secuencia](https://user-images.githubusercontent.com/85301799/124209787-ce49b100-daaf-11eb-85fd-e1bc5bdd4933.png)
@@ -30,6 +32,8 @@ Interacciones del gen FUS3 en Arabidopsis thaliana
 Interacciones geneticas del gen FUS3 en Arabidopsis thaliana
 
 La acción de ET2 durante el desarrollo de la semilla depende de una interacción compleja con GA y el gen FUS3, este último evidenciado por los fenotipos del doble mutante et2-1 fus3-T. (4)
+
+ET2 es un regulador transcripcional necesario para la inducción de la latencia durante el desarrollo tardío de la semilla. Interactúa genéticamente con FUS3 y puede ser componente de la misma vía reguladora durante la embriogénesis. Se une al ADN lineal y superenrollado sin preferencia de secuencia. (5)
 
 ![genemania-network (1)](https://user-images.githubusercontent.com/85301799/124209068-7cecf200-daae-11eb-8851-4b16a2405ff3.jpg)
 
@@ -48,3 +52,5 @@ Bibliografía:
 (3) Chiu, R. S., Nahal, H., Provart, N. J., & Gazzarrini, S. (2012). The role of the Arabidopsis FUSCA3 transcription factor during inhibition of seed germination at high temperature. BMC plant biology, 12, 15. https://doi.org/10.1186/1471-2229-12-15
 
 (4) Ivanov, R., Tiedemann, J., Czihal, A., & Baumlein, H. (2012). Transcriptional regulator AtET2 is required for the induction of dormancy during late seed development. Journal of plant physiology, 169(5), 501–508. https://doi.org/10.1016/j.jplph.2011.11.017
+
+(5) Ivanov, R., Tiedemann, J., Czihal, A., & Baumlein, H. (2012). Transcriptional regulator AtET2 is required for the induction of dormancy during late seed development. Journal of plant physiology, 169(5), 501–508. https://doi.org/10.1016/j.jplph.2011.11.017
