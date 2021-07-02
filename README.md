@@ -13,7 +13,7 @@ Se localiza en el cromosoma 3 (https://www.ncbi.nlm.nih.gov/genome/gdv/browser/g
 Secuencia del cromosoma 3 de Arabidopsis thaliana (https://www.ncbi.nlm.nih.gov/nuccore/NC_003074.8?report=genbank&from=9853828&to=9856212&strand=true)
 ![Secuencia](https://user-images.githubusercontent.com/85301799/124208391-10bdbe80-daad-11eb-9b0d-ef605ec29a07.png)
 
-
+Interacciones del gen FUS3 en Arabidopsis thaliana
 
 ![genemania-network](https://user-images.githubusercontent.com/85301799/124205635-3cd64100-daa7-11eb-8c22-96f0975be214.jpg)
 
