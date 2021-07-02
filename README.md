@@ -1,3 +1,7 @@
 #Red_Arabidopsis
 Gen FUS3
-(https://user-images.githubusercontent.com/85301799/124205301-9b4eef80-daa6-11eb-830a-cd700ac444b7.jpg)
+![genemania-network](https://user-images.githubusercontent.com/85301799/124205635-3cd64100-daa7-11eb-8c22-96f0975be214.jpg)
+
+
+
+
