@@ -22,10 +22,13 @@ Interacciones del gen FUS3 en Arabidopsis thaliana
 ![genemania-network](https://user-images.githubusercontent.com/85301799/124205635-3cd64100-daa7-11eb-8c22-96f0975be214.jpg)
 
 Interacciones geneticas del gen FUS3 en Arabidopsis thaliana
+La acción de ET2 durante el desarrollo de la semilla depende de una interacción compleja con GA y el gen FUS3, este último evidenciado por los fenotipos del doble mutante et2-1 fus3-T. (https://pubmed.ncbi.nlm.nih.gov/22226340/)
 
 ![genemania-network (1)](https://user-images.githubusercontent.com/85301799/124209068-7cecf200-daae-11eb-8851-4b16a2405ff3.jpg)
 
+Interacciones fisicas del gen FUS3 en Arabidopsis thaliana
 
+![genemania-network (2)](https://user-images.githubusercontent.com/85301799/124210887-d86caf00-dab1-11eb-8403-7502070da2d4.jpg)
 
 
 
@@ -35,4 +38,5 @@ Wang F, Perry SE. Identification of direct targets of FUSCA3, a key regulator of
 
 Chiu RS, Nahal H, Provart NJ, Gazzarrini S. The role of the Arabidopsis FUSCA3 transcription factor during inhibition of seed germination at high temperature.
 
-
+Rumen Ivanov, Jens Tiedemann, Andreas Czihal, Helmut Baumlein, Transcriptional regulator AtET2 is required for the induction of dormancy during late seed development,
+Journal of Plant Physiology, Volume 169, Issue 5, 2012.
