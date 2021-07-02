@@ -17,6 +17,13 @@ Interacciones del gen FUS3 en Arabidopsis thaliana
 
 ![genemania-network](https://user-images.githubusercontent.com/85301799/124205635-3cd64100-daa7-11eb-8c22-96f0975be214.jpg)
 
+Interacciones geneticas del gen FUS3 en Arabidopsis thaliana
+
+![genemania-network (1)](https://user-images.githubusercontent.com/85301799/124209068-7cecf200-daae-11eb-8851-4b16a2405ff3.jpg)
+
+
+
+
 
 Bibliografía:
 
