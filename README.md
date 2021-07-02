@@ -2,7 +2,9 @@
 
 Gen FUS3
 
-Es un regulador clave del desarrollo de semillas de Arabidopsis Thaliana ( https://pubmed.ncbi.nlm.nih.gov/23314941/)
+Es un regulador clave del desarrollo de semillas de Arabidopsis Thaliana. (https://pubmed.ncbi.nlm.nih.gov/23314941/)
+
+El factor de transcripción del dominio B3 FUSCA3 (FUS3) es un regulador maestro del desarrollo de semillas y un nodo importante en las redes de interacción hormonal en Arabidopsis thaliana . Su función se ha caracterizado principalmente durante el desarrollo embrionario, donde FUS3 está altamente expresado para promover la maduración y la latencia de las semillas al regular los niveles de ABA / GA. (https://pubmed.ncbi.nlm.nih.gov/22279962/)
 
 Contexto genomico
 
@@ -29,5 +31,6 @@ Bibliografía:
 
 Wang F, Perry SE. Identification of direct targets of FUSCA3, a key regulator of Arabidopsis seed development. Plant Physiol. 2013
 
+Chiu RS, Nahal H, Provart NJ, Gazzarrini S. The role of the Arabidopsis FUSCA3 transcription factor during inhibition of seed germination at high temperature.
 
 
